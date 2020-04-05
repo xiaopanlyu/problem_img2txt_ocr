@@ -4,7 +4,7 @@
 @Description: 
 @Author: Allen
 @Date: 2020-04-03 01:55:51
-@LastEditTime: 2020-04-06 00:00:01
+@LastEditTime: 2020-04-06 00:34:55
 @LastEditors: Allen
 '''
 import tkinter as tk
@@ -19,7 +19,7 @@ watch_path = os.path.join(cur_path, 'images').replace('\\', '/')
 ocr_result_save_path = os.path.join(cur_path,
                                     'ocr_text.txt').replace('\\', '/')
 
-font_style = ('Microsoft YaHei', 12)
+font_style = ('Microsoft YaHei', 10)
 
 
 class RealOCRGUI:
@@ -31,8 +31,8 @@ class RealOCRGUI:
         self.root = tk.Tk()
         self.root.title('RealOCR')
 
-        width = 960
-        height = 800
+        width = 800
+        height = 600
         screenwidth = self.root.winfo_screenwidth()
         screenheight = self.root.winfo_screenheight()
         size = '%dx%d+%d+%d' % (width, height, (screenwidth - width) / 2,
@@ -43,7 +43,7 @@ class RealOCRGUI:
         self.lf_entry_set_file_path = tk.LabelFrame(self.root,
                                                     text='Set file path',
                                                     font=font_style)
-        self.lf_entry_set_file_path.grid(row=1,
+        self.lf_entry_set_file_path.grid(row=0,
                                          column=0,
                                          rowspan=1,
                                          padx=6,
@@ -66,6 +66,7 @@ class RealOCRGUI:
         self.entry_watch_path = tk.Entry(self.lf_entry_set_file_path,
                                          textvariable=var_watch_path,
                                          font=font_style,
+                                         width=50,
                                          relief='solid')
         self.entry_watch_path.grid(row=1,
                                    column=2,
@@ -93,6 +94,7 @@ class RealOCRGUI:
         var_ocr_ret.set(self.ocr_result_save_path)
         self.entry_ocr_ret = tk.Entry(self.lf_entry_set_file_path,
                                       textvariable=var_ocr_ret,
+                                      width=50,
                                       font=font_style,
                                       relief='solid')
         self.entry_ocr_ret.grid(row=2, column=2, rowspan=1, padx=6, sticky='w')
@@ -111,11 +113,14 @@ class RealOCRGUI:
         self.lf_button_service = tk.LabelFrame(self.root,
                                                font=font_style,
                                                text='RealOCR Service')
-        self.lf_button_service.grid(row=2,
+        self.lf_button_service.grid(row=1,
                                     column=0,
-                                    columnspan=3,
-                                    sticky='w',
-                                    padx=6)
+                                    rowspan=1,
+                                    padx=6,
+                                    pady=6,
+                                    ipadx=6,
+                                    ipady=6,
+                                    sticky='w')
 
         self.button_start_OCR_service = tk.Button(
             self.lf_button_service,
@@ -123,9 +128,10 @@ class RealOCRGUI:
             font=font_style,
             command=self.button_start_OCR_service_click)
         self.button_start_OCR_service.grid(row=0,
-                                           column=2,
-                                           sticky='w',
-                                           padx=10)
+                                           column=0,
+                                           rowspan=1,
+                                           padx=6,
+                                           sticky='w')
 
         self.button_stop_OCR_service = tk.Button(
             self.lf_button_service,
@@ -133,16 +139,23 @@ class RealOCRGUI:
             font=font_style,
             command=self.button_stop_OCR_service_click)
 
-        self.button_stop_OCR_service.grid(row=0, column=3, sticky='w', padx=10)
+        self.button_stop_OCR_service.grid(row=0,
+                                          column=1,
+                                          rowspan=1,
+                                          padx=6,
+                                          sticky='w')
 
         # Text: OCR RESULTS
         self.lf_text_OCR_results = tk.LabelFrame(self.root,
                                                  font=font_style,
                                                  text='OCR Results')
-        self.lf_text_OCR_results.grid(row=3,
+        self.lf_text_OCR_results.grid(row=2,
                                       column=0,
-                                      columnspan=3,
+                                      rowspan=1,
                                       padx=6,
+                                      pady=6,
+                                      ipadx=6,
+                                      ipady=6,
                                       sticky='w')
 
         self.textbox_OCR_results = tk.Text(self.lf_text_OCR_results,
@@ -150,23 +163,26 @@ class RealOCRGUI:
                                            relief='solid')
         self.textbox_OCR_results.grid(row=0,
                                       column=0,
-                                      rowspan=3,
+                                      rowspan=1,
                                       padx=6,
                                       sticky='w')
         # Text: messagebox
         self.lf_text_messagebox = tk.LabelFrame(self.root,
                                                 font=font_style,
                                                 text='Logs')
-        self.lf_text_messagebox.grid(row=4,
+        self.lf_text_messagebox.grid(row=3,
                                      column=0,
-                                     columnspan=3,
-                                     padx=3,
+                                     rowspan=1,
+                                     padx=6,
+                                     pady=6,
+                                     ipadx=6,
+                                     ipady=6,
                                      sticky='w')
         self.text_messagebox = tk.Text(self.lf_text_messagebox,
                                        font=font_style)
         self.text_messagebox.grid(row=0,
                                   column=0,
-                                  rowspan=3,
+                                  rowspan=1,
                                   padx=6,
                                   sticky='w')
 
