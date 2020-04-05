@@ -4,13 +4,12 @@
 @Description: 
 @Author: Allen
 @Date: 2020-04-03 01:55:51
-@LastEditTime: 2020-04-05 23:21:20
+@LastEditTime: 2020-04-06 00:00:01
 @LastEditors: Allen
 '''
 import tkinter as tk
 from tkinter import filedialog
-from watchdog.observers import Observer
-from watchdog.events import PatternMatchingEventHandler
+from real_ocr_watchdog import *
 from ocr_method_api.baidu_aip import baidu_aip_ocr
 from snipaste import snip
 import os
@@ -23,39 +22,7 @@ ocr_result_save_path = os.path.join(cur_path,
 font_style = ('Microsoft YaHei', 12)
 
 
-class Watchdog(PatternMatchingEventHandler, Observer):
-    def __init__(self, path='.', patterns='*', logfunc=print, ocrfunc=print):
-        PatternMatchingEventHandler.__init__(self, patterns)
-        Observer.__init__(self)
-        self.schedule(self, path=path, recursive=False)
-        self.log = logfunc
-        self.ocr_res = ocrfunc
-
-    def on_created(self, event):
-        # This function is called when a file is created
-        self.log(f"hey, {event.src_path} has been created!")
-        ocr_result = baidu_aip_ocr(event.src_path)
-        with open('%s' % (ocr_result_save_path), 'a', encoding='utf-8') as f:
-            f.write("{}\n".format(ocr_result))
-            f.close()
-        # self.log(f"OCR result: {ocr_result}")
-        self.ocr_res(ocr_result)
-
-    def on_deleted(self, event):
-        # This function is called when a file is deleted
-        self.log(f"what the f**k! Someone deleted {event.src_path}!")
-
-    def on_modified(self, event):
-        # This function is called when a file is modified
-        self.log(f"hey buddy, {event.src_path} has been modified")
-
-    def on_moved(self, event):
-        # This function is called when a file is moved
-        self.log(
-            f"ok ok ok, someone moved {event.src_path} to {event.dest_path}")
-
-
-class GUI:
+class RealOCRGUI:
     def __init__(self):
         self.watchdog = None
         self.watch_path = watch_path
@@ -205,54 +172,6 @@ class GUI:
 
         self.root.mainloop()
 
-        # frm = Frame(self.root)
-        # Button(frm, text='Set Watch Path',
-        #        command=self.set_watch_path).grid(row=1)
-        # Button(frm,
-        #        text='Set OCR Result File',
-        #        command=self.set_ocr_result_path).grid(row=2)
-        # Button(frm, text='Start Watchdog',
-        #        command=self.start_watchdog).grid(row=3)
-        # Button(frm, text='Stop Watchdog',
-        #        command=self.stop_watchdog).grid(row=4)
-
-        # Button(frm, text='Start OCR Service',
-        #        command=self.start_engine).grid(row=5)
-
-        # # 第5步，用户信息
-        # Label(frm, text='Watch path:', font=('Arial', 14)).grid(row=6,
-        #                                                         column=0,
-        #                                                         sticky='w',
-        #                                                         padx=10)
-        # Label(frm, text='OCR result file:',
-        #       font=('Arial', 14)).grid(row=7, column=0, sticky='w', padx=10)
-
-        # # 第6步，用户登录输入框entry
-        # # 用户名
-        # self.var_watch_path = StringVar()
-        # self.var_watch_path.set(watch_path)
-        # self.entry_watch_path = Entry(frm,
-        #                               textvariable=self.var_watch_path,
-        #                               width=20,
-        #                               font=('Arial', 12)).grid(row=6,
-        #                                                        column=1,
-        #                                                        sticky='w',
-        #                                                        padx=10)
-
-        # # 用户密码
-        # self.var_ocr_result = StringVar()
-        # self.var_ocr_result.set(ocr_result_save_path)
-        # self.entry_ocr_result = Entry(frm,
-        #                               textvariable=self.var_ocr_result,
-        #                               width=20,
-        #                               font=('Arial', 12)).grid(row=7,
-        #                                                        column=1,
-        #                                                        sticky='w',
-        #                                                        padx=10)
-
-        # frm.place(x=6, y=2)
-        # self.root.mainloop()
-
     def button_start_OCR_service_click(self):
         snip.start_snipaste(self.watch_path)
         self.start_watchdog()
@@ -265,9 +184,9 @@ class GUI:
 
     def start_watchdog(self):
         if self.watchdog is None:
-            self.watchdog = Watchdog(path=self.watch_path,
-                                     logfunc=self.log,
-                                     ocrfunc=self.OCR_results)
+            self.watchdog = RealOCRWatchdog(path=self.watch_path,
+                                            logfunc=self.log,
+                                            ocrfunc=self.OCR_app)
             self.watchdog.start()
             self.log('Watchdog started')
         else:
@@ -301,6 +220,14 @@ class GUI:
             self.ocr_result_save_path = path
             self.log(f'Selected OCR result path: {path}')
 
+    def OCR_app(self, src_path):
+        ocr_result = baidu_aip_ocr(src_path)
+        with open('%s' % (ocr_result_save_path), 'a', encoding='utf-8') as f:
+            f.write("{}\n".format(ocr_result))
+            f.close()
+        # self.log(f"OCR result: {ocr_result}")
+        self.OCR_results(ocr_result)
+
     def log(self, message):
         self.text_messagebox.insert(tk.END, f'{message}\n')
         self.text_messagebox.see(tk.END)
@@ -311,4 +238,4 @@ class GUI:
 
 
 if __name__ == '__main__':
-    GUI()
+    RealOCRGUI()

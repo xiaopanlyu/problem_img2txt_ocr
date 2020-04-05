@@ -3495,3 +3495,73 @@
 [2020-04-05 23:39:24.179] [I] Exit: 0
 
 
+[2020-04-05 23:57:03.712] [I] ***************************************************************
+[2020-04-05 23:57:03.712] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-05 23:57:03.712] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-05 23:57:03.712] [I] Cores: 6
+[2020-04-05 23:57:03.712] [I] Elevated: true
+[2020-04-05 23:57:03.712] [I] Log level: 2
+[2020-04-05 23:57:03.712] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/src/Snipaste-1.16.2-x64
+[2020-04-05 23:57:03.712] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/src/Snipaste-1.16.2-x64/config.ini
+[2020-04-05 23:57:03.712] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/src/Snipaste-1.16.2-x64)
+[2020-04-05 23:57:03.712] [I] Screen scale: 1.5
+[2020-04-05 23:57:03.712] [I] Retina factor: 1
+[2020-04-05 23:57:03.712] [I] Screens: 2
+[2020-04-05 23:57:03.712] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-05 23:57:03.712] [I]     QRect(2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-05 23:57:03.712] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/src/Snipaste-1.16.2-x64/config.ini
+[2020-04-05 23:57:03.770] [I] Settings imported
+[2020-04-05 23:57:03.771] [I] Breakpad initialized
+[2020-04-05 23:57:03.772] [I] Process priority: 1
+[2020-04-05 23:57:03.772] [I] Initializing Snipaste...
+[2020-04-05 23:57:04.142] [I] Prefetch...
+[2020-04-05 23:57:04.143] [I] About to apply settings...
+[2020-04-05 23:57:04.144] [I] Image writer plugins loaded: 3 ms
+[2020-04-05 23:57:04.145] [I] Image reader plugins loaded: 0 ms
+[2020-04-05 23:57:04.226] [I] Settings applied
+[2020-04-05 23:57:04.274] [I] Log level set to: 2
+[2020-04-05 23:57:04.411] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/src/Snipaste-1.16.2-x64/history
+[2020-04-05 23:57:04.413] [I] Header version: 162
+[2020-04-05 23:57:04.415] [I] About to restore pasters...
+[2020-04-05 23:57:04.417] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-05 23:57:04.417] [I] Record version: 162
+[2020-04-05 23:57:04.417] [I] To restore: 0
+[2020-04-05 23:57:04.417] [I] Pasters touched
+[2020-04-05 23:57:04.417] [I] All pasters activated: true
+[2020-04-05 23:57:04.723] [I] Unref images: 0 (0 removed)
+[2020-04-05 23:57:04.723] [I] Unref dirs: 0 (0 removed)
+[2020-04-05 23:57:04.723] [I] Empty history info files: 0 (0 removed)
+[2020-04-05 23:57:04.723] [I] Pasters restored
+[2020-04-05 23:57:04.723] [I] Launch time: 1014 ms
+[2020-04-05 23:57:04.740] [I] Load default ssl configuration: 598 ms
+[2020-04-05 23:57:08.614] [I] Snip request: 0 (dest: 0)
+[2020-04-05 23:57:08.614] [I] Snipper: preparing...
+[2020-04-05 23:57:08.744] [I] Screens: 2
+[2020-04-05 23:57:08.744] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-05 23:57:08.744] [I]     QRect(2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-05 23:57:08.744] [I] Desktop: QRect(0, 0, 5120 x 1440)
+[2020-04-05 23:57:08.744] [I] Background size: QSize(5120, 1440)
+[2020-04-05 23:57:08.746] [I] Snipper: preparation done (0)
+[2020-04-05 23:57:08.746] [I] Snipper: about to appear...
+[2020-04-05 23:57:08.746] [I] Snipper: prepare to show...
+[2020-04-05 23:57:08.751] [I] Snipper: shown
+[2020-04-05 23:57:08.751] [I] Snipper: focus in
+[2020-04-05 23:57:08.752] [I] Snipper: ready
+[2020-04-05 23:57:11.786] [I] Screenshot destination: clipboard
+[2020-04-05 23:57:11.788] [I] Screenshot successfully saved: clipboard
+[2020-04-05 23:57:11.788] [I] Auto save...
+[2020-04-05 23:57:11.800] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/src/images/Snipaste_2020-04-05_23-57-11.png
+[2020-04-05 23:57:11.800] [I] Snipper: about to quit...
+[2020-04-05 23:57:11.812] [I] Snipper: focus out
+[2020-04-05 23:57:11.819] [I] Snipper: hidden
+[2020-04-05 23:57:11.819] [I] Snipper: quit
+[2020-04-05 23:57:12.083] [I] Snipper: scene saved
+[2020-04-05 23:58:06.525] [I] Silent feed checking finished
+[2020-04-05 23:58:06.525] [I] No available update
+[2020-04-05 23:58:56.897] [I] Quit from tray menu
+[2020-04-05 23:58:56.912] [I] Snipaste: normal exit
+[2020-04-05 23:58:56.912] [I] Snipper: destructed
+[2020-04-05 23:58:56.929] [I] WinEnumer destructed
+[2020-04-05 23:58:56.932] [I] Exit: 0
+
+
