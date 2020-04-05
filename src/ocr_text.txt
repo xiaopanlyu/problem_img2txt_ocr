@@ -1,0 +1,1 @@
+The meaning of a kernel sentence is the proposition into which it maps, and sinllarly, the meaning of any name is the object which is its image un-der the mapping.
