@@ -4,7 +4,7 @@
 @Description: start and config snipaste
 @Author: Allen
 @Date: 2020-04-01 18:34:43
-@LastEditTime: 2020-04-05 22:29:20
+@LastEditTime: 2020-04-16 17:05:39
 @LastEditors: Allen
 '''
 from subprocess import Popen, PIPE
@@ -16,9 +16,10 @@ import subprocess
 class snipaste(object):
     def __init__(self):
         self.proc = None
+        self.proc_name = 'Snipaste.exe'
         self.cur_path = os.path.abspath(os.path.dirname(__file__))
         self.root_path = os.path.join(self.cur_path, 'Snipaste-1.16.2-x64')
-        self.exec_path = os.path.join(self.root_path, 'Snipaste.exe')
+        self.exec_path = os.path.join(self.root_path, self.proc_name)
 
     def set_quick_save_path(self, config_path, monitor_path):
         result = list()
@@ -36,10 +37,17 @@ class snipaste(object):
 
     def stop_snipaste(self):
         if self.proc:
-            self.proc.kill()  # 终止子进程
-            self.proc.communicate()
-            self.proc.terminate()
-            print('test')
+            # self.proc.kill()  # 终止子进程
+            # self.proc.communicate()
+            # self.proc.terminate()
+            # print('test')
+            self.end_program()
+            self.proc = None
+
+    #关闭其他应用程序
+    #pro_name:将要关闭的程序
+    def end_program(self):
+        os.system('%s%s' % ("taskkill /F /IM ", self.proc_name))
         # stop_cmd = 'snip --exit'
         # ret = subprocess.call([exec_path, stop_cmd],
         #                       shell=True,

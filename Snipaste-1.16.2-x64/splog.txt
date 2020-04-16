@@ -4689,3 +4689,600 @@
 [2020-04-12 11:40:12.935] [I] Exit: 0
 
 
+[2020-04-12 11:40:18.179] [I] ***************************************************************
+[2020-04-12 11:40:18.179] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-12 11:40:18.179] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-12 11:40:18.179] [I] Cores: 6
+[2020-04-12 11:40:18.179] [I] Elevated: true
+[2020-04-12 11:40:18.179] [I] Log level: 2
+[2020-04-12 11:40:18.179] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-12 11:40:18.179] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-12 11:40:18.179] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-12 11:40:18.179] [I] Screen scale: 1.5
+[2020-04-12 11:40:18.179] [I] Retina factor: 1
+[2020-04-12 11:40:18.179] [I] Screens: 2
+[2020-04-12 11:40:18.179] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:40:18.179] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:40:18.179] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-12 11:40:18.275] [I] Settings imported
+[2020-04-12 11:40:18.276] [I] Breakpad initialized
+[2020-04-12 11:40:18.277] [I] Process priority: 1
+[2020-04-12 11:40:18.277] [I] Initializing Snipaste...
+[2020-04-12 11:40:18.646] [I] Prefetch...
+[2020-04-12 11:40:18.647] [I] About to apply settings...
+[2020-04-12 11:40:18.648] [I] Image writer plugins loaded: 2 ms
+[2020-04-12 11:40:18.649] [I] Image reader plugins loaded: 0 ms
+[2020-04-12 11:40:18.681] [I] Settings applied
+[2020-04-12 11:40:18.737] [I] Log level set to: 2
+[2020-04-12 11:40:18.875] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-12 11:40:18.876] [I] Header version: 162
+[2020-04-12 11:40:18.878] [I] About to restore pasters...
+[2020-04-12 11:40:18.880] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-12 11:40:18.880] [I] Record version: 162
+[2020-04-12 11:40:18.880] [I] To restore: 0
+[2020-04-12 11:40:18.880] [I] Pasters touched
+[2020-04-12 11:40:18.880] [I] All pasters activated: true
+[2020-04-12 11:40:19.273] [I] Unref images: 0 (0 removed)
+[2020-04-12 11:40:19.273] [I] Unref dirs: 0 (0 removed)
+[2020-04-12 11:40:19.273] [I] Empty history info files: 0 (0 removed)
+[2020-04-12 11:40:19.273] [I] Pasters restored
+[2020-04-12 11:40:19.273] [I] Launch time: 1097 ms
+[2020-04-12 11:40:19.296] [I] Load default ssl configuration: 649 ms
+[2020-04-12 11:40:22.343] [I] Snip request: 0 (dest: 0)
+[2020-04-12 11:40:22.343] [I] Snipper: preparing...
+[2020-04-12 11:40:22.461] [I] Screens: 2
+[2020-04-12 11:40:22.461] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:40:22.461] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:40:22.461] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-12 11:40:22.461] [I] Background size: QSize(5120, 1440)
+[2020-04-12 11:40:22.462] [I] Snipper: preparation done (0)
+[2020-04-12 11:40:22.463] [I] Snipper: about to appear...
+[2020-04-12 11:40:22.463] [I] Snipper: prepare to show...
+[2020-04-12 11:40:22.467] [I] Snipper: shown
+[2020-04-12 11:40:22.467] [I] Snipper: focus in
+[2020-04-12 11:40:22.468] [I] Snipper: ready
+[2020-04-12 11:40:29.913] [I] Screenshot destination: clipboard
+[2020-04-12 11:40:29.914] [I] Screenshot successfully saved: clipboard
+[2020-04-12 11:40:29.914] [I] Auto save...
+[2020-04-12 11:40:29.919] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-12_11-40-29.png
+[2020-04-12 11:40:29.919] [I] Snipper: about to quit...
+[2020-04-12 11:40:29.931] [I] Snipper: focus out
+[2020-04-12 11:40:29.934] [I] Snipper: hidden
+[2020-04-12 11:40:29.934] [I] Snipper: quit
+[2020-04-12 11:40:30.364] [I] Snipper: scene saved
+[2020-04-12 11:41:08.375] [I] Snip request: 0 (dest: 0)
+[2020-04-12 11:41:08.375] [I] Snipper: preparing...
+[2020-04-12 11:41:08.503] [I] Screens: 2
+[2020-04-12 11:41:08.503] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:41:08.503] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:41:08.503] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-12 11:41:08.503] [I] Background size: QSize(5120, 1440)
+[2020-04-12 11:41:08.505] [I] Snipper: preparation done (0)
+[2020-04-12 11:41:08.505] [I] Snipper: about to appear...
+[2020-04-12 11:41:08.505] [I] Snipper: prepare to show...
+[2020-04-12 11:41:08.506] [I] Snipper: shown
+[2020-04-12 11:41:08.546] [I] Snipper: focus in
+[2020-04-12 11:41:08.569] [I] Snipper: ready
+[2020-04-12 11:41:13.672] [I] Screenshot destination: clipboard
+[2020-04-12 11:41:13.677] [I] Screenshot successfully saved: clipboard
+[2020-04-12 11:41:13.677] [I] Auto save...
+[2020-04-12 11:41:13.711] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-12_11-41-13.png
+[2020-04-12 11:41:13.711] [I] Snipper: about to quit...
+[2020-04-12 11:41:13.723] [I] Snipper: focus out
+[2020-04-12 11:41:13.728] [I] Snipper: hidden
+[2020-04-12 11:41:13.729] [I] Snipper: quit
+[2020-04-12 11:41:14.152] [I] Snipper: scene saved
+[2020-04-12 11:41:20.914] [I] Silent feed checking finished
+[2020-04-12 11:41:20.914] [I] No available update
+[2020-04-12 11:41:36.365] [I] Snip request: 0 (dest: 0)
+[2020-04-12 11:41:36.365] [I] Snipper: preparing...
+[2020-04-12 11:41:36.472] [I] Screens: 2
+[2020-04-12 11:41:36.472] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:41:36.472] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-12 11:41:36.472] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-12 11:41:36.472] [I] Background size: QSize(5120, 1440)
+[2020-04-12 11:41:36.473] [I] Snipper: preparation done (0)
+[2020-04-12 11:41:36.474] [I] Snipper: about to appear...
+[2020-04-12 11:41:36.474] [I] Snipper: prepare to show...
+[2020-04-12 11:41:36.474] [I] Snipper: shown
+[2020-04-12 11:41:36.518] [I] Snipper: focus in
+[2020-04-12 11:41:36.548] [I] Snipper: ready
+[2020-04-12 11:41:42.685] [I] Screenshot destination: clipboard
+[2020-04-12 11:41:42.691] [I] Screenshot successfully saved: clipboard
+[2020-04-12 11:41:42.691] [I] Auto save...
+[2020-04-12 11:41:42.722] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-12_11-41-42.png
+[2020-04-12 11:41:42.722] [I] Snipper: about to quit...
+[2020-04-12 11:41:42.733] [I] Snipper: focus out
+[2020-04-12 11:41:42.737] [I] Snipper: hidden
+[2020-04-12 11:41:42.737] [I] Snipper: quit
+[2020-04-12 11:41:43.175] [I] Snipper: scene saved
+[2020-04-12 12:40:35.419] [I] Quit from tray menu
+[2020-04-12 12:40:35.447] [I] Snipaste: normal exit
+[2020-04-12 12:40:35.447] [I] Snipper: destructed
+[2020-04-12 12:40:35.467] [I] WinEnumer destructed
+[2020-04-12 12:40:35.469] [I] Exit: 0
+
+
+[2020-04-16 10:49:19.592] [I] ***************************************************************
+[2020-04-16 10:49:19.592] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-16 10:49:19.592] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-16 10:49:19.592] [I] Cores: 6
+[2020-04-16 10:49:19.592] [I] Elevated: true
+[2020-04-16 10:49:19.592] [I] Log level: 2
+[2020-04-16 10:49:19.592] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-16 10:49:19.592] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 10:49:19.592] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-16 10:49:19.592] [I] Screen scale: 1.5
+[2020-04-16 10:49:19.592] [I] Retina factor: 1
+[2020-04-16 10:49:19.592] [I] Screens: 2
+[2020-04-16 10:49:19.592] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:49:19.592] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:49:19.592] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 10:49:19.650] [I] Settings imported
+[2020-04-16 10:49:19.653] [I] Breakpad initialized
+[2020-04-16 10:49:19.677] [I] Process priority: 1
+[2020-04-16 10:49:19.677] [I] Initializing Snipaste...
+[2020-04-16 10:49:20.130] [I] Prefetch...
+[2020-04-16 10:49:20.132] [I] About to apply settings...
+[2020-04-16 10:49:20.222] [I] Settings applied
+[2020-04-16 10:49:20.256] [I] Image writer plugins loaded: 126 ms
+[2020-04-16 10:49:20.258] [I] Image reader plugins loaded: 2 ms
+[2020-04-16 10:49:20.279] [I] Log level set to: 2
+[2020-04-16 10:49:20.396] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-16 10:49:20.398] [I] Header version: 162
+[2020-04-16 10:49:20.402] [I] About to restore pasters...
+[2020-04-16 10:49:20.403] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-16 10:49:20.403] [I] Record version: 162
+[2020-04-16 10:49:20.403] [I] To restore: 0
+[2020-04-16 10:49:20.403] [I] Pasters touched
+[2020-04-16 10:49:20.403] [I] All pasters activated: true
+[2020-04-16 10:49:20.498] [I] Unref images: 0 (0 removed)
+[2020-04-16 10:49:20.500] [I] Unref dirs: 0 (0 removed)
+[2020-04-16 10:49:20.508] [I] Empty history info files: 0 (0 removed)
+[2020-04-16 10:49:20.508] [I] Pasters restored
+[2020-04-16 10:49:20.508] [I] Launch time: 944 ms
+[2020-04-16 10:49:20.705] [I] Load default ssl configuration: 573 ms
+[2020-04-16 10:49:26.583] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:49:26.583] [I] Snipper: preparing...
+[2020-04-16 10:49:26.705] [I] Screens: 2
+[2020-04-16 10:49:26.705] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:49:26.705] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:49:26.705] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:49:26.705] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:49:26.707] [I] Snipper: preparation done (0)
+[2020-04-16 10:49:26.707] [I] Snipper: about to appear...
+[2020-04-16 10:49:26.707] [I] Snipper: prepare to show...
+[2020-04-16 10:49:26.712] [I] Snipper: shown
+[2020-04-16 10:49:26.715] [I] Snipper: focus in
+[2020-04-16 10:49:26.715] [I] Snipper: ready
+[2020-04-16 10:49:30.780] [I] Screenshot destination: clipboard
+[2020-04-16 10:49:30.781] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:49:30.781] [I] Auto save...
+[2020-04-16 10:49:30.786] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-49-30.png
+[2020-04-16 10:49:30.786] [I] Snipper: about to quit...
+[2020-04-16 10:49:30.798] [I] Snipper: focus out
+[2020-04-16 10:49:30.802] [I] Snipper: hidden
+[2020-04-16 10:49:30.803] [I] Snipper: quit
+[2020-04-16 10:49:31.221] [I] Snipper: scene saved
+[2020-04-16 10:50:23.403] [I] Silent feed checking finished
+[2020-04-16 10:50:23.403] [I] No available update
+[2020-04-16 10:50:44.184] [I] Quit from tray menu
+[2020-04-16 10:50:44.198] [I] Snipaste: normal exit
+[2020-04-16 10:50:44.198] [I] Snipper: destructed
+[2020-04-16 10:50:44.213] [I] WinEnumer destructed
+[2020-04-16 10:50:44.215] [I] Exit: 0
+
+
+[2020-04-16 10:50:45.885] [I] ***************************************************************
+[2020-04-16 10:50:45.885] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-16 10:50:45.885] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-16 10:50:45.885] [I] Cores: 6
+[2020-04-16 10:50:45.885] [I] Elevated: true
+[2020-04-16 10:50:45.885] [I] Log level: 2
+[2020-04-16 10:50:45.885] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-16 10:50:45.885] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 10:50:45.885] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-16 10:50:45.885] [I] Screen scale: 1.5
+[2020-04-16 10:50:45.885] [I] Retina factor: 1
+[2020-04-16 10:50:45.886] [I] Screens: 2
+[2020-04-16 10:50:45.886] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:50:45.886] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:50:45.886] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 10:50:45.944] [I] Settings imported
+[2020-04-16 10:50:45.945] [I] Breakpad initialized
+[2020-04-16 10:50:45.945] [I] Process priority: 1
+[2020-04-16 10:50:45.945] [I] Initializing Snipaste...
+[2020-04-16 10:50:46.314] [I] Prefetch...
+[2020-04-16 10:50:46.316] [I] About to apply settings...
+[2020-04-16 10:50:46.317] [I] Image writer plugins loaded: 3 ms
+[2020-04-16 10:50:46.317] [I] Image reader plugins loaded: 0 ms
+[2020-04-16 10:50:46.406] [I] Settings applied
+[2020-04-16 10:50:46.453] [I] Log level set to: 2
+[2020-04-16 10:50:46.561] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-16 10:50:46.563] [I] Header version: 162
+[2020-04-16 10:50:46.565] [I] About to restore pasters...
+[2020-04-16 10:50:46.567] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-16 10:50:46.567] [I] Record version: 162
+[2020-04-16 10:50:46.567] [I] To restore: 0
+[2020-04-16 10:50:46.567] [I] Pasters touched
+[2020-04-16 10:50:46.567] [I] All pasters activated: true
+[2020-04-16 10:50:46.872] [I] Unref images: 0 (0 removed)
+[2020-04-16 10:50:46.872] [I] Unref dirs: 0 (0 removed)
+[2020-04-16 10:50:46.872] [I] Empty history info files: 0 (0 removed)
+[2020-04-16 10:50:46.872] [I] Pasters restored
+[2020-04-16 10:50:46.872] [I] Launch time: 988 ms
+[2020-04-16 10:50:46.888] [I] Load default ssl configuration: 573 ms
+[2020-04-16 10:50:54.350] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:50:54.350] [I] Snipper: preparing...
+[2020-04-16 10:50:54.464] [I] Screens: 2
+[2020-04-16 10:50:54.464] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:50:54.464] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:50:54.464] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:50:54.464] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:50:54.466] [I] Snipper: preparation done (0)
+[2020-04-16 10:50:54.466] [I] Snipper: about to appear...
+[2020-04-16 10:50:54.466] [I] Snipper: prepare to show...
+[2020-04-16 10:50:54.471] [I] Snipper: shown
+[2020-04-16 10:50:54.471] [I] Snipper: focus in
+[2020-04-16 10:50:54.471] [I] Snipper: ready
+[2020-04-16 10:50:56.824] [I] Screenshot destination: clipboard
+[2020-04-16 10:50:56.825] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:50:56.825] [I] Auto save...
+[2020-04-16 10:50:56.830] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-50-56.png
+[2020-04-16 10:50:56.830] [I] Snipper: about to quit...
+[2020-04-16 10:50:56.843] [I] Snipper: focus out
+[2020-04-16 10:50:56.848] [I] Snipper: hidden
+[2020-04-16 10:50:56.849] [I] Snipper: quit
+[2020-04-16 10:50:57.253] [I] Snipper: scene saved
+[2020-04-16 10:51:42.218] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:51:42.218] [I] Snipper: preparing...
+[2020-04-16 10:51:42.322] [I] Screens: 2
+[2020-04-16 10:51:42.322] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:51:42.322] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:51:42.322] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:51:42.322] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:51:42.326] [I] Snipper: preparation done (0)
+[2020-04-16 10:51:42.326] [I] Snipper: about to appear...
+[2020-04-16 10:51:42.326] [I] Snipper: prepare to show...
+[2020-04-16 10:51:42.327] [I] Snipper: shown
+[2020-04-16 10:51:42.363] [I] Snipper: focus in
+[2020-04-16 10:51:42.396] [I] Snipper: ready
+[2020-04-16 10:51:46.926] [I] Screenshot destination: clipboard
+[2020-04-16 10:51:46.927] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:51:46.927] [I] Auto save...
+[2020-04-16 10:51:46.932] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-51-46.png
+[2020-04-16 10:51:46.932] [I] Snipper: about to quit...
+[2020-04-16 10:51:46.943] [I] Snipper: focus out
+[2020-04-16 10:51:46.949] [I] Snipper: hidden
+[2020-04-16 10:51:46.950] [I] Snipper: quit
+[2020-04-16 10:51:47.308] [I] Snipper: scene saved
+[2020-04-16 10:51:52.645] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:51:52.645] [I] Snipper: preparing...
+[2020-04-16 10:51:52.748] [I] Screens: 2
+[2020-04-16 10:51:52.748] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:51:52.748] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:51:52.748] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:51:52.748] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:51:52.749] [I] Snipper: preparation done (0)
+[2020-04-16 10:51:52.749] [I] Snipper: about to appear...
+[2020-04-16 10:51:52.749] [I] Snipper: prepare to show...
+[2020-04-16 10:51:52.751] [I] Snipper: shown
+[2020-04-16 10:51:52.788] [I] Snipper: focus in
+[2020-04-16 10:51:52.819] [I] Snipper: ready
+[2020-04-16 10:51:56.769] [I] Screenshot destination: clipboard
+[2020-04-16 10:51:56.772] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:51:56.773] [I] Auto save...
+[2020-04-16 10:51:56.803] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-51-56.png
+[2020-04-16 10:51:56.803] [I] Snipper: about to quit...
+[2020-04-16 10:51:56.815] [I] Snipper: focus out
+[2020-04-16 10:51:56.820] [I] Snipper: hidden
+[2020-04-16 10:51:56.820] [I] Snipper: quit
+[2020-04-16 10:51:57.158] [I] Snipper: scene saved
+[2020-04-16 10:52:19.264] [I] Silent feed checking finished
+[2020-04-16 10:52:19.264] [I] No available update
+[2020-04-16 10:52:52.814] [I] Quit from tray menu
+[2020-04-16 10:52:52.844] [I] Snipaste: normal exit
+[2020-04-16 10:52:52.844] [I] Snipper: destructed
+[2020-04-16 10:52:52.862] [I] WinEnumer destructed
+[2020-04-16 10:52:52.865] [I] Exit: 0
+
+
+[2020-04-16 10:57:41.667] [I] ***************************************************************
+[2020-04-16 10:57:41.667] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-16 10:57:41.667] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-16 10:57:41.667] [I] Cores: 6
+[2020-04-16 10:57:41.667] [I] Elevated: true
+[2020-04-16 10:57:41.667] [I] Log level: 2
+[2020-04-16 10:57:41.667] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-16 10:57:41.667] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 10:57:41.667] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-16 10:57:41.667] [I] Screen scale: 1.5
+[2020-04-16 10:57:41.667] [I] Retina factor: 1
+[2020-04-16 10:57:41.667] [I] Screens: 2
+[2020-04-16 10:57:41.667] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:41.667] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:41.667] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 10:57:41.726] [I] Settings imported
+[2020-04-16 10:57:41.727] [I] Breakpad initialized
+[2020-04-16 10:57:41.727] [I] Process priority: 1
+[2020-04-16 10:57:41.727] [I] Initializing Snipaste...
+[2020-04-16 10:57:42.105] [I] Prefetch...
+[2020-04-16 10:57:42.107] [I] About to apply settings...
+[2020-04-16 10:57:42.108] [I] Image writer plugins loaded: 3 ms
+[2020-04-16 10:57:42.108] [I] Image reader plugins loaded: 0 ms
+[2020-04-16 10:57:42.212] [I] Settings applied
+[2020-04-16 10:57:42.285] [I] Log level set to: 2
+[2020-04-16 10:57:42.409] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-16 10:57:42.412] [I] Header version: 162
+[2020-04-16 10:57:42.416] [I] About to restore pasters...
+[2020-04-16 10:57:42.416] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-16 10:57:42.416] [I] Record version: 162
+[2020-04-16 10:57:42.416] [I] To restore: 0
+[2020-04-16 10:57:42.416] [I] Pasters touched
+[2020-04-16 10:57:42.416] [I] All pasters activated: true
+[2020-04-16 10:57:42.657] [I] Load default ssl configuration: 552 ms
+[2020-04-16 10:57:42.664] [I] Unref images: 0 (0 removed)
+[2020-04-16 10:57:42.664] [I] Unref dirs: 0 (0 removed)
+[2020-04-16 10:57:42.664] [I] Empty history info files: 0 (0 removed)
+[2020-04-16 10:57:42.664] [I] Pasters restored
+[2020-04-16 10:57:42.664] [I] Launch time: 1000 ms
+[2020-04-16 10:57:45.518] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:57:45.518] [I] Snipper: preparing...
+[2020-04-16 10:57:45.631] [I] Screens: 2
+[2020-04-16 10:57:45.631] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:45.631] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:45.631] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:57:45.631] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:57:45.632] [I] Snipper: preparation done (0)
+[2020-04-16 10:57:45.633] [I] Snipper: about to appear...
+[2020-04-16 10:57:45.633] [I] Snipper: prepare to show...
+[2020-04-16 10:57:45.638] [I] Snipper: shown
+[2020-04-16 10:57:45.638] [I] Snipper: focus in
+[2020-04-16 10:57:45.639] [I] Snipper: ready
+[2020-04-16 10:57:49.828] [I] Screenshot destination: clipboard
+[2020-04-16 10:57:49.829] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:57:49.829] [I] Auto save...
+[2020-04-16 10:57:49.833] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-57-49.png
+[2020-04-16 10:57:49.833] [I] Snipper: about to quit...
+[2020-04-16 10:57:49.845] [I] Snipper: focus out
+[2020-04-16 10:57:49.851] [I] Snipper: hidden
+[2020-04-16 10:57:49.851] [I] Snipper: quit
+[2020-04-16 10:57:50.155] [I] Snipper: scene saved
+[2020-04-16 10:57:53.772] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:57:53.772] [I] Snipper: preparing...
+[2020-04-16 10:57:53.885] [I] Screens: 2
+[2020-04-16 10:57:53.885] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:53.885] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:53.885] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:57:53.885] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:57:53.887] [I] Snipper: preparation done (0)
+[2020-04-16 10:57:53.887] [I] Snipper: about to appear...
+[2020-04-16 10:57:53.887] [I] Snipper: prepare to show...
+[2020-04-16 10:57:53.888] [I] Snipper: shown
+[2020-04-16 10:57:53.927] [I] Snipper: focus in
+[2020-04-16 10:57:53.958] [I] Snipper: ready
+[2020-04-16 10:57:56.465] [I] Screenshot destination: clipboard
+[2020-04-16 10:57:56.465] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:57:56.465] [I] Auto save...
+[2020-04-16 10:57:56.472] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-57-56.png
+[2020-04-16 10:57:56.472] [I] Snipper: about to quit...
+[2020-04-16 10:57:56.484] [I] Snipper: focus out
+[2020-04-16 10:57:56.490] [I] Snipper: hidden
+[2020-04-16 10:57:56.490] [I] Snipper: quit
+[2020-04-16 10:57:56.856] [I] Snipper: scene saved
+[2020-04-16 10:57:59.077] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:57:59.077] [I] Snipper: preparing...
+[2020-04-16 10:57:59.191] [I] Screens: 2
+[2020-04-16 10:57:59.191] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:59.191] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:57:59.191] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:57:59.191] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:57:59.192] [I] Snipper: preparation done (0)
+[2020-04-16 10:57:59.192] [I] Snipper: about to appear...
+[2020-04-16 10:57:59.192] [I] Snipper: prepare to show...
+[2020-04-16 10:57:59.194] [I] Snipper: shown
+[2020-04-16 10:57:59.229] [I] Snipper: focus in
+[2020-04-16 10:57:59.259] [I] Snipper: ready
+[2020-04-16 10:58:01.356] [I] Screenshot destination: clipboard
+[2020-04-16 10:58:01.356] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:58:01.356] [I] Auto save...
+[2020-04-16 10:58:01.361] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-58-01.png
+[2020-04-16 10:58:01.361] [I] Snipper: about to quit...
+[2020-04-16 10:58:01.373] [I] Snipper: focus out
+[2020-04-16 10:58:01.378] [I] Snipper: hidden
+[2020-04-16 10:58:01.379] [I] Snipper: quit
+[2020-04-16 10:58:01.745] [I] Snipper: scene saved
+[2020-04-16 10:58:03.246] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:58:03.246] [I] Snipper: preparing...
+[2020-04-16 10:58:03.360] [I] Screens: 2
+[2020-04-16 10:58:03.360] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:58:03.360] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:58:03.360] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:58:03.360] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:58:03.362] [I] Snipper: preparation done (0)
+[2020-04-16 10:58:03.362] [I] Snipper: about to appear...
+[2020-04-16 10:58:03.362] [I] Snipper: prepare to show...
+[2020-04-16 10:58:03.365] [I] Snipper: shown
+[2020-04-16 10:58:03.397] [I] Snipper: focus in
+[2020-04-16 10:58:03.437] [I] Snipper: ready
+[2020-04-16 10:58:05.833] [I] Screenshot destination: clipboard
+[2020-04-16 10:58:05.833] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:58:05.833] [I] Auto save...
+[2020-04-16 10:58:05.840] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-58-05.png
+[2020-04-16 10:58:05.840] [I] Snipper: about to quit...
+[2020-04-16 10:58:05.853] [I] Snipper: focus out
+[2020-04-16 10:58:05.858] [I] Snipper: hidden
+[2020-04-16 10:58:05.858] [I] Snipper: quit
+[2020-04-16 10:58:06.223] [I] Snipper: scene saved
+[2020-04-16 10:58:10.715] [I] Snip request: 0 (dest: 0)
+[2020-04-16 10:58:10.715] [I] Snipper: preparing...
+[2020-04-16 10:58:10.833] [I] Screens: 2
+[2020-04-16 10:58:10.833] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:58:10.833] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 10:58:10.833] [I] Desktop: QRect(-2560, 0, 5120 x 1440)
+[2020-04-16 10:58:10.833] [I] Background size: QSize(5120, 1440)
+[2020-04-16 10:58:10.834] [I] Snipper: preparation done (0)
+[2020-04-16 10:58:10.835] [I] Snipper: about to appear...
+[2020-04-16 10:58:10.835] [I] Snipper: prepare to show...
+[2020-04-16 10:58:10.836] [I] Snipper: shown
+[2020-04-16 10:58:10.872] [I] Snipper: focus in
+[2020-04-16 10:58:10.901] [I] Snipper: ready
+[2020-04-16 10:58:13.270] [I] Screenshot destination: clipboard
+[2020-04-16 10:58:13.270] [I] Screenshot successfully saved: clipboard
+[2020-04-16 10:58:13.270] [I] Auto save...
+[2020-04-16 10:58:13.276] [I] Image saved to: D:/xiaopanlyu_phd/code/RealOCR/images/Snipaste_2020-04-16_10-58-13.png
+[2020-04-16 10:58:13.276] [I] Snipper: about to quit...
+[2020-04-16 10:58:13.288] [I] Snipper: focus out
+[2020-04-16 10:58:13.293] [I] Snipper: hidden
+[2020-04-16 10:58:13.293] [I] Snipper: quit
+[2020-04-16 10:58:13.700] [I] Snipper: scene saved
+[2020-04-16 10:58:45.161] [I] Silent feed checking finished
+[2020-04-16 10:58:45.161] [I] No available update
+[2020-04-16 11:22:37.225] [I] Quit from tray menu
+[2020-04-16 11:22:37.240] [I] Snipaste: normal exit
+[2020-04-16 11:22:37.240] [I] Snipper: destructed
+[2020-04-16 11:22:37.260] [I] WinEnumer destructed
+[2020-04-16 11:22:37.262] [I] Exit: 0
+
+
+[2020-04-16 11:50:56.949] [I] ***************************************************************
+[2020-04-16 11:50:56.949] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-16 11:50:56.949] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-16 11:50:56.949] [I] Cores: 6
+[2020-04-16 11:50:56.949] [I] Elevated: true
+[2020-04-16 11:50:56.949] [I] Log level: 2
+[2020-04-16 11:50:56.949] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-16 11:50:56.949] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 11:50:56.949] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-16 11:50:56.949] [I] Screen scale: 1.5
+[2020-04-16 11:50:56.949] [I] Retina factor: 1
+[2020-04-16 11:50:56.949] [I] Screens: 2
+[2020-04-16 11:50:56.949] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 11:50:56.950] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 11:50:56.950] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 11:50:57.041] [I] Settings imported
+[2020-04-16 11:50:57.044] [I] Breakpad initialized
+[2020-04-16 11:50:57.047] [I] Process priority: 1
+[2020-04-16 11:50:57.047] [I] Initializing Snipaste...
+[2020-04-16 11:50:57.428] [I] Prefetch...
+[2020-04-16 11:50:57.429] [I] About to apply settings...
+[2020-04-16 11:50:57.430] [I] Image writer plugins loaded: 2 ms
+[2020-04-16 11:50:57.431] [I] Image reader plugins loaded: 1 ms
+[2020-04-16 11:50:57.564] [I] Settings applied
+[2020-04-16 11:50:57.613] [I] Log level set to: 2
+[2020-04-16 11:50:57.755] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-16 11:50:57.757] [I] Header version: 162
+[2020-04-16 11:50:57.760] [I] About to restore pasters...
+[2020-04-16 11:50:57.760] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-16 11:50:57.760] [I] Record version: 162
+[2020-04-16 11:50:57.760] [I] To restore: 0
+[2020-04-16 11:50:57.760] [I] Pasters touched
+[2020-04-16 11:50:57.760] [I] All pasters activated: true
+[2020-04-16 11:50:57.973] [I] Load default ssl configuration: 545 ms
+[2020-04-16 11:50:57.979] [I] Unref images: 0 (0 removed)
+[2020-04-16 11:50:57.979] [I] Unref dirs: 0 (0 removed)
+[2020-04-16 11:50:57.979] [I] Empty history info files: 0 (0 removed)
+[2020-04-16 11:50:57.979] [I] Pasters restored
+[2020-04-16 11:50:57.979] [I] Launch time: 1031 ms
+[2020-04-16 11:51:58.305] [W] Feed error: 下载更新源失败。网络错误: SSL 握手失败
+[2020-04-16 11:51:58.376] [I] Quit from tray menu
+[2020-04-16 11:51:58.405] [I] Snipaste: normal exit
+[2020-04-16 11:51:58.405] [I] Snipper: destructed
+[2020-04-16 11:51:58.419] [I] Exit: 0
+
+
+[2020-04-16 11:52:01.200] [I] ***************************************************************
+[2020-04-16 11:52:01.200] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-16 11:52:01.200] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-16 11:52:01.200] [I] Cores: 6
+[2020-04-16 11:52:01.200] [I] Elevated: true
+[2020-04-16 11:52:01.200] [I] Log level: 2
+[2020-04-16 11:52:01.200] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-16 11:52:01.200] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 11:52:01.200] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-16 11:52:01.200] [I] Screen scale: 1.5
+[2020-04-16 11:52:01.200] [I] Retina factor: 1
+[2020-04-16 11:52:01.200] [I] Screens: 2
+[2020-04-16 11:52:01.200] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 11:52:01.200] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 11:52:01.200] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 11:52:01.270] [I] Settings imported
+[2020-04-16 11:52:01.271] [I] Breakpad initialized
+[2020-04-16 11:52:01.272] [I] Process priority: 1
+[2020-04-16 11:52:01.272] [I] Initializing Snipaste...
+[2020-04-16 11:52:01.641] [I] Prefetch...
+[2020-04-16 11:52:01.643] [I] About to apply settings...
+[2020-04-16 11:52:01.644] [I] Image writer plugins loaded: 3 ms
+[2020-04-16 11:52:01.644] [I] Image reader plugins loaded: 1 ms
+[2020-04-16 11:52:01.751] [I] Settings applied
+[2020-04-16 11:52:01.803] [I] Log level set to: 2
+[2020-04-16 11:52:01.923] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-16 11:52:01.924] [I] Header version: 162
+[2020-04-16 11:52:01.926] [I] About to restore pasters...
+[2020-04-16 11:52:01.929] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-16 11:52:01.929] [I] Record version: 162
+[2020-04-16 11:52:01.929] [I] To restore: 0
+[2020-04-16 11:52:01.929] [I] Pasters touched
+[2020-04-16 11:52:01.929] [I] All pasters activated: true
+[2020-04-16 11:52:02.211] [I] Unref images: 0 (0 removed)
+[2020-04-16 11:52:02.211] [I] Unref dirs: 0 (0 removed)
+[2020-04-16 11:52:02.212] [I] Empty history info files: 0 (0 removed)
+[2020-04-16 11:52:02.212] [I] Pasters restored
+[2020-04-16 11:52:02.212] [I] Launch time: 1014 ms
+[2020-04-16 11:52:02.222] [I] Load default ssl configuration: 582 ms
+[2020-04-16 11:52:43.405] [I] Quit from tray menu
+[2020-04-16 11:52:43.431] [I] Snipaste: normal exit
+[2020-04-16 11:52:43.431] [I] Snipper: destructed
+[2020-04-16 11:52:43.445] [I] Exit: 0
+
+
+[2020-04-16 11:52:45.060] [I] ***************************************************************
+[2020-04-16 11:52:45.060] [I] Snipaste 1.16.2 x64 (Qt 5.9.0)
+[2020-04-16 11:52:45.060] [I] OS: Windows 10 (10.0) [10.0.18363]
+[2020-04-16 11:52:45.060] [I] Cores: 6
+[2020-04-16 11:52:45.060] [I] Elevated: true
+[2020-04-16 11:52:45.060] [I] Log level: 2
+[2020-04-16 11:52:45.060] [I] Application dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64
+[2020-04-16 11:52:45.060] [I] Config: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 11:52:45.060] [I] Library paths: (D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64)
+[2020-04-16 11:52:45.060] [I] Screen scale: 1.5
+[2020-04-16 11:52:45.060] [I] Retina factor: 1
+[2020-04-16 11:52:45.060] [I] Screens: 2
+[2020-04-16 11:52:45.060] [I]     QRect(0, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 11:52:45.060] [I]     QRect(-2560, 0, 2560 x 1440), DPI = 144 , DPR = 1
+[2020-04-16 11:52:45.060] [I] About to import settings from: D:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/config.ini
+[2020-04-16 11:52:45.116] [I] Settings imported
+[2020-04-16 11:52:45.116] [I] Breakpad initialized
+[2020-04-16 11:52:45.117] [I] Process priority: 1
+[2020-04-16 11:52:45.117] [I] Initializing Snipaste...
+[2020-04-16 11:52:45.492] [I] Prefetch...
+[2020-04-16 11:52:45.494] [I] About to apply settings...
+[2020-04-16 11:52:45.495] [I] Image writer plugins loaded: 3 ms
+[2020-04-16 11:52:45.496] [I] Image reader plugins loaded: 1 ms
+[2020-04-16 11:52:45.585] [I] Settings applied
+[2020-04-16 11:52:45.635] [I] Log level set to: 2
+[2020-04-16 11:52:45.859] [I] History dir: d:/xiaopanlyu_phd/code/RealOCR/Snipaste-1.16.2-x64/history
+[2020-04-16 11:52:45.861] [I] Header version: 162
+[2020-04-16 11:52:45.863] [I] About to restore pasters...
+[2020-04-16 11:52:45.865] [I] Group 0 [YNA4N5]: "默认"
+[2020-04-16 11:52:45.865] [I] Record version: 162
+[2020-04-16 11:52:45.865] [I] To restore: 0
+[2020-04-16 11:52:45.865] [I] Pasters touched
+[2020-04-16 11:52:45.865] [I] All pasters activated: true
+[2020-04-16 11:52:46.044] [I] Load default ssl configuration: 552 ms
+[2020-04-16 11:52:46.054] [I] Unref images: 0 (0 removed)
+[2020-04-16 11:52:46.054] [I] Unref dirs: 0 (0 removed)
+[2020-04-16 11:52:46.055] [I] Empty history info files: 0 (0 removed)
+[2020-04-16 11:52:46.055] [I] Pasters restored
+[2020-04-16 11:52:46.055] [I] Launch time: 996 ms
+[2020-04-16 11:53:46.257] [W] Feed error: 下载更新源失败。网络错误: SSL 握手失败
+[2020-04-16 11:53:58.247] [W] Feed error: 下载更新源失败。网络错误: Operation canceled
+[2020-04-16 11:54:10.244] [E] 下载更新源失败。网络错误: Operation canceled
+[2020-04-16 11:54:44.805] [I] Second instance: 2
+[2020-04-16 11:54:44.805] [W] No valid arguments matched ((d:\xiaopanlyu_phd\code\RealOCR\Snipaste-1.16.2-x64\Snipaste.exe, --config=d:\xiaopanlyu_phd\code\RealOCR\Snipaste-1.16.2-x64\config.ini))
+[2020-04-16 11:54:54.153] [I] Quit from tray menu
+[2020-04-16 11:54:54.169] [I] Snipaste: normal exit
+[2020-04-16 11:54:54.169] [I] Snipper: destructed
+[2020-04-16 11:54:54.185] [I] Exit: 0
+
+

@@ -4,7 +4,7 @@
 @Description: construct a OCR GUI 
 @Author: Allen
 @Date: 2020-03-31 16:44:54
-@LastEditTime: 2020-04-03 01:17:27
+@LastEditTime: 2020-04-16 12:05:39
 @LastEditors: Allen
 '''
 import tkinter as tk  # 使用Tkinter前需要先导入
